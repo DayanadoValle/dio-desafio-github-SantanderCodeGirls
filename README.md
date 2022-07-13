@@ -1,10 +1,15 @@
-# dio-desafio-github-primeiro-repositorio-SantanderCodeGirls
-Repositório sobre desafio de projeto sobre github/github -Santander Code Girls - Segundo semestre de  2022.
+## Repositório para compartilhar minhas anotações e progresso no bootcamp Santander Code Girls 2022 :boom:
 
-## Links úteis de estudo  
-- [Sintaxe_Basica_Markdown](https://www.markdownguide.org)
+
+### Ferramentas :
 - [Git](https://git-scm.com/downloads)
-- [Repositório no GitHub Para Compartilhar Seu Progresso]( https://drive.google.com/file/d/1IZu0qohv1JOmxjEra1lknDiiStU68bl4/view)
+
+### Links úteis de estudo :
+
 - [Pensamento Computacional](https://drive.google.com/file/d/1vemC6G790JNte1882V53DAKEawJzVIWL/view)
+
+- [Sintaxe_Basica_Markdown](https://www.markdownguide.org)
+
+- [Repositório no GitHub Para Compartilhar Seu Progresso]( https://drive.google.com/file/d/1IZu0qohv1JOmxjEra1lknDiiStU68bl4/view)
 
 
